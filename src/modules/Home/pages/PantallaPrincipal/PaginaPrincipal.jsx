@@ -49,6 +49,10 @@ const PaginaPrincipal = () => {
                     alt="Ilustración"
                   />
                 </div>
+                <div>
+                  <h2 className="justify-center text-4xl">Tecnologias</h2>
+                  <div className="grid grid-flow-col-dense"></div>
+                </div>
               </div>
             </div>
           </section>
